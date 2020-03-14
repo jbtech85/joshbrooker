@@ -1,3 +1,2 @@
 # joshbrooker
-My personal website.  Currently integrating RoR
-I'm also becoming more familiar with Git, which I've never gotten too far in.
+My personal website.  Currently under maintenance.  Preparing to redo it with Laravel.
