@@ -1,2 +1,2 @@
 # joshbrooker
-My personal website.  Currently under maintenance.  Preparing to redo it with Laravel.
+Currently putting this on hold.  Check out my PantryApp project to see my latest work.
